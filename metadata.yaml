@@ -1,0 +1,28 @@
+_repo: University-Education-in-Ireland_31553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haughton, Samuel
+    birthdate: 1821
+    deathdate: 1897
+    gutenberg_agent_id: '35326'
+    url: http://www.gutenberg.org/2009/agents/35326
+description: ''
+gutenberg_issued: '2010-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education, Higher -- Ireland'
+- !lcc 'LA'
+- !lcsh 'Universities and colleges -- Ireland'
+- !lcsh 'Church and college -- Ireland'
+title: University Education in Ireland
+url: http://www.gutenberg.org/ebooks/31553
